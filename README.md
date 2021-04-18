@@ -21,7 +21,7 @@ pow(double a, double b) <br>
 pow(a+ib, power) <br>
 sqrt(a+ib) <br>
 cbrt(a+ib) <br>
-random <br> <br>
+random() <br> <br>
 The <i>Complex</i> class contains the following functions: <br>
 String toString() <br>
 boolean equals(Object o) <br>
