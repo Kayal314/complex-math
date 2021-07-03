@@ -1,6 +1,6 @@
 
 /**
- * @author      Pritam Kayal <b><i>Contact: </i>himalayandaredevil@gmail.com</b>
+ * @author      Pritam Kayal 
  * @version     1.0                 (current version number of program)
  * @since       1.0          (the version of the package this class was first added to)
  */
